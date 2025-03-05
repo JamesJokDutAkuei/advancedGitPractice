@@ -29,6 +29,8 @@
   161  ls
 
 #5. Advanced Squashing:
+'''bash
+
  Step 1: Start interactive rebase
 git rebase -i HEAD~2
 
@@ -40,6 +42,6 @@ git rebase -i HEAD~2
 
  Step 4: Verify the changes
 git log --oneline
-
+'''
 #6. Dropping a Commit:
 
