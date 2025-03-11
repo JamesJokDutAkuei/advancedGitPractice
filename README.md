@@ -45,3 +45,4 @@ git log --oneline
 '''
 #6. Dropping a Commit:
 
+I won't continue this writing anymore
